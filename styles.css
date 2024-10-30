@@ -1,0 +1,29 @@
+h1
+{
+    color: #ffa511;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-weight: 900;
+    font-size: 55px;
+    text-transform: uppercase;
+    color: brown;
+}
+
+footer{
+
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding: 10px 0;
+        background-color: #f1f1f1; 
+    }
+    
+    p {
+        margin: 0;
+        font-size: 14px; 
+    }
+h2 {
+    text-align: center;
+}
